@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://invoice-generator.example.com/sitemap.xml
+Sitemap: https://plan-f-invoice-generator.vercel.app/sitemap.xml
 
 # Free Online Invoice Generator - Create Professional Invoices
 # Target: freelancers, small businesses, contractors
